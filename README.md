@@ -22,7 +22,6 @@ Hi, I’m Gitanjali 👋
 
 🚀 Projects
 
-- 🎨 The Vibe Checkr – AI-powered web app generating outputs based on user mood
 - 📖 Visual Storyteller – Interactive AI-based storytelling platform
 - 🩺 Skin Cancer Classification – CNN model with ~94% accuracy
 - ✋ ASL Detection System – Real-time gesture recognition (~92% accuracy)
