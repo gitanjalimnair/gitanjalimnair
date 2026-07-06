@@ -1,42 +1,62 @@
-Hi, I’m Gitanjali 👋
+# Hi, I'm Gitanjali 👋
 
-🎓 Computer Science undergraduate at VIT Bhopal (Health Informatics)
-🤖 Interested in AI, Machine Learning, and Data Analytics
-📊 Passionate about turning data into insights and building intelligent systems
+I'm a Computer Science undergraduate at VIT Bhopal specializing in Health Informatics.
 
----
+Most of my work revolves around AI and machine learning, but I also enjoy building the applications around the models. Lately, I've been working on projects involving generative AI, computer vision, predictive modeling, and full-stack web development.
 
-🎥 Introduction Video
-
-▶️ "Watch my GitHub introduction video" (https://drive.google.com/file/d/1hwjQJEC-ijVxlqDxto5tzyxzHN1j8Gfg/view?usp=drivesdk)
+I'm always looking for opportunities to learn new technologies and build projects that solve real-world problems.
 
 ---
 
-🧠 Skills
+## Featured Projects
 
-- Languages: Python, Java, SQL
-- Frameworks: TensorFlow, PyTorch, Keras
-- Libraries: Pandas, NumPy, Scikit-learn, OpenCV
+### Vibe Check
 
----
+An AI-powered music personality web app that combines the Spotify Web API and Gemini API to generate personalized insights from a user's listening history.
 
-🚀 Projects
+### Visual Storyteller
 
-- 📖 Visual Storyteller – Interactive AI-based storytelling platform
-- 🩺 Skin Cancer Classification – CNN model with ~94% accuracy
-- ✋ ASL Detection System – Real-time gesture recognition (~92% accuracy)
+A multimodal web application that analyzes uploaded images and generates genre-specific stories using the Gemini Vision API.
 
----
+### Used Car Price Predictor
 
-🎯 Interests
+A machine learning web application built with Flask that predicts used car resale prices using a Random Forest model.
 
-- Data Analytics
-- Computer Vision
-- AI in Healthcare
+### Placement Predictor
+
+A Dockerized machine learning application that predicts placement outcomes using student academic data, with an interactive web interface for real-time predictions.
 
 ---
 
-📫 Connect with me
+## Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/gitanjali-nair-ba9ba2280?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: gitanjalimnair@gmail.com
+**Languages**
+
+Python • Java • SQL • JavaScript
+
+**Frameworks & Libraries**
+
+TensorFlow • PyTorch • Keras • Scikit-learn • Pandas • NumPy • OpenCV • React • Next.js • Flask
+
+**Tools**
+
+Git • GitHub • VS Code • Jupyter Notebook • Vercel • Render • Kaggle
+
+---
+
+## Currently Learning
+
+* Large Language Models (LLMs)
+* Generative AI
+* AWS Cloud
+* Flutter
+
+---
+
+## Connect
+
+**LinkedIn**
+www.linkedin.com/in/gitanjali-nair-ba9ba2280
+
+**Email**
+[gitanjalimnair@gmail.com](mailto:gitanjalimnair@gmail.com)
