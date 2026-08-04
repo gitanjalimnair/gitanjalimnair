@@ -10,7 +10,7 @@ I'm always looking for opportunities to learn new technologies and build project
 
 ## Featured Projects
 
-### Vibe Check
+### Spotify Personality Archetype 
 
 An AI-powered music personality web app that combines the Spotify Web API and Gemini API to generate personalized insights from a user's listening history.
 
